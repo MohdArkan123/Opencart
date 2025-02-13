@@ -1,0 +1,55 @@
+18:45:09.342 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+18:45:09.378 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details.... 
+18:45:16.442 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message... 
+18:45:16.765 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+18:45:21.156 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+18:45:23.691 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+18:46:17.881 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\seleniumWebDriver\Opencart\docker-grid.xml
+
+18:46:24.681 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+18:46:25.023 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link 
+18:46:25.738 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+18:46:25.743 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details.... 
+18:46:33.173 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message... 
+18:46:33.456 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+18:46:35.959 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+18:46:38.356 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+18:49:14.468 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\seleniumWebDriver\Opencart\docker-grid.xml
+
+18:49:25.148 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+18:49:25.522 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link 
+18:49:26.246 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+18:49:26.249 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details.... 
+18:49:33.480 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message... 
+18:49:33.554 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+18:49:40.290 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+18:49:42.158 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:24:01.054 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\seleniumWebDriver\Opencart\docker-grid.xml
+
+19:24:11.225 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+19:24:11.645 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link 
+19:24:12.428 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+19:24:12.432 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details.... 
+19:24:19.273 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message... 
+19:24:19.353 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+19:24:26.343 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:24:28.316 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:54:11.713 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+19:54:13.887 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+20:14:33.155 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:14:33.564 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link 
+20:14:34.590 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+20:14:34.592 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details.... 
+20:14:41.603 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message... 
+20:14:41.681 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:14:46.637 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+20:14:48.727 [main] INFO  testCases.TC002_LoginTest - *****Starting TC002_LoginTest*****
+20:37:08.598 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:37:08.857 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on MyAccount Link 
+20:37:09.414 [main] INFO  testCases.TC001_AccountRegistrationTest -  Clicked on Register Link 
+20:37:09.421 [main] INFO  testCases.TC001_AccountRegistrationTest -  Providing Customer Details.... 
+20:37:16.247 [main] INFO  testCases.TC001_AccountRegistrationTest -  Validating Expected Message... 
+20:37:16.312 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
