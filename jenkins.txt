@@ -1,0 +1,8 @@
+5237e5d4f7d0487dac464d26da747d62
+
+Admin
+Admin@123
+localhost:8080
+
+
+To start jenkins===>type in cmd --->java -jar jenkins.war
