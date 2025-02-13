@@ -1,6 +1,28 @@
-//This is sample file......
-//This is sample file......
-//This is sample file......
-//This is sample file......
-//This is sample file......
-//This is sample file......
+To run standalone Grid
+-----------------------
+=>open cmd
+=>cd C:\Users\Dell\eclipse-workspace\seleniumWebDriver\Opencart
+=>java -jar selenium-server-4.28.1.jar standalone
+
+
+To start grid on docker
+-----------------------
+=>open cmd
+=>cd C:\Users\Dell\eclipse-workspace\seleniumWebDriver\Opencart
+=>docker compose up
+
+
+To remove containers on docker
+--------------------------------
+=>open cmd
+=>cd C:\Users\Dell\eclipse-workspace\seleniumWebDriver\Opencart
+=>docker compose down
+
+
+
+To run pom.xml in command prompt
+----------------------------------
+=>open cmd
+=>cd C:\Users\Dell\eclipse-workspace\seleniumWebDriver\Opencart
+=>mvn test
+
